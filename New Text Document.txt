@@ -1,1 +1,1 @@
-NRO Zenith:server.nrozenith.net:14445:0,0,0
+NRO Zenith:14.225.211.19:14445:0,0,0
